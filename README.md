@@ -1,6 +1,8 @@
 # NS-RPC
 The definitive way to display your Nintendo Switch games in Discord. 🎮
 
+Now currently trying to be updated by Chibi-Usa (arisu#0404 for discord)
+
 ## Introduction
 NS-RPC (Nintendo Switch Rich Presence) is an Electron app for Windows and macOS that allows every day Switch users to display
 the game they're currently playing in their Discord status through a Rich Presence.
